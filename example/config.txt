@@ -1,0 +1,2 @@
+Prefix plugins/CSVCat/example/
+Plugin CSVCat inputfile cat.txt outputfile result.csv
